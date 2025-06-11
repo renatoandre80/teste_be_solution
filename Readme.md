@@ -148,6 +148,10 @@ Após iniciar o agente (seja pela Opção A ou B), ele estará esperando por um 
 prever_area_fator com fator_nome='JULGAMENTO DE PILOTAGEM', fator_aspecto='PLANEJAMENTO DE VOO', fator_condicionante='Deficiente'
 ```
 
+** Exemplo de funcionalidade
+
+![Image](https://github.com/user-attachments/assets/9aabbc08-a652-4a4e-8e93-f64c54ec78a8)
+
 **Resposta Esperada do Agente:**
 
 O agente processará a informação, usará o modelo de ML e retornará uma resposta parecida com esta:
